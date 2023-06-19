@@ -1,6 +1,6 @@
 # AI Personalized Avatars
 
-Welcome to the AI Personalized Avatars repository! This project harnesses the power of artificial intelligence to generate unique, personalized avatars based on a set of training images. The model used in this project is a variant of the Stable Diffusion model, known for its exceptional capabilities in image generation tasks.
+This project harnesses the power of artificial intelligence to generate unique, personalized avatars based on a set of training images. The model used in this project is a variant of the Stable Diffusion model, known for its exceptional capabilities in image generation tasks.
 
 ## Sample Images
 
