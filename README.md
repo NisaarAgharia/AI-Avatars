@@ -9,7 +9,10 @@ Here are some example input training images and corresponding output images gene
 **Training Images:**
 
 <p float="left">
-  <img src="https://github.com/NisaarAgharia/AI-Personalized-Avatars/assets/22457544/80d81e65-34d6-49ff-91d8-58aabd55f5be" width="50%" />
+![out-2 (2)](https://github.com/user-attachments/assets/86e9833f-c8cf-4f05-ae39-f794142a7475)
+![out-3 (4)](https://github.com/user-attachments/assets/33cd5b77-229b-455f-9cd0-27faebc33ea8)
+![out-2 (3)](https://github.com/user-attachments/assets/b20d1979-7b73-40c6-9cd1-62504c3ce184)
+
 </p>
 
 **Generated Avatars:**
